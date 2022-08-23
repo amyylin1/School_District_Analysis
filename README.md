@@ -1,10 +1,10 @@
 # School_District_Analysis
 
-# 1. Overview of the school district analysis:
+## 1. Overview of the school district analysis:
 
 The point of the school district analysis is to determine the correlation between school performances and factors, such as budget, school size, and type of school. From this analysis, we can evaluate whether budgets are optimally allocated to enhance the overall school performance.   Later, we found out that the ninth-grade math and reading scores of the Thomas High Schools were compromised. Therefore, we re-analyze the data to see whether anything was different.
 
-# 2. Results:
+## 2. Results:
 
 
 -  The district summary:
@@ -25,8 +25,9 @@ The point of the school district analysis is to determine the correlation betwee
 
 
 - Replacing the ninth-grade scores does NOT affect the following:
+    - math and reading scores of grade 10 to 12
     - scores by school spending
-    - scores by school sizea
+    - scores by school size
     - scores by school type
 
 
@@ -70,4 +71,7 @@ The point of the school district analysis is to determine the correlation betwee
     ![Screen Shot 2022-08-23 at 3 34 13 PM](https://user-images.githubusercontent.com/108419097/186250212-38282349-bdc5-4ea9-a402-5927ed569eab.png)
 
 
+## 3. Summary
+
+   After the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the "Average Math Score" (79 to 78.9), the "% Passing Math" (75 to 74.8%), the "% Passing  Reading" (85.8 to 85.7%), and the "% Overall Passing" (65.2 to 64.9%)  decrease marginally in the district.   Within the Thomas High School, the updated analysis showed slight reduction in the "Average Math Score", "% Passing Math", "% Passing Reading" and the "Overall Passing".    All other parameters stay constant. 
 
