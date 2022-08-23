@@ -6,6 +6,30 @@ The point of the school district analysis is to determine the correlation betwee
 
 # 2. Results:
 
+
+-  The district summary:
+    - The average math score decreases from 79.0 to 78.9.
+    - The % Passing Math decreases from 75% to 74.8%. 
+    - The % Passing Reading decreases from 85.8% to 85.7%.  
+    - The % Overall Passing decreases from 65.2% to 64.9%.
+
+
+- The school summary:
+    - The average reading score decreases from 83.8 to 83.7.
+    - The average % Passing Math decreases from 93.3% to 93.2%.
+    - The average % Passing Reading decreases from 97.3% to 97.0%.
+    - The % Overall Passing decreases from 90.9% to 90.6%.
+
+
+- Replacing the ninth graders' math and reading scores does not affect Thomas High School's performance relative to the other schools. 
+
+
+- Replacing the ninth-grade scores does NOT affect the following:
+    - scores by school spending
+    - scores by school sizea
+    - scores by school type
+
+
 - District summary 
 
 ![Screen Shot 2022-08-23 at 2 11 05 PM](https://user-images.githubusercontent.com/108419097/186232981-c0dfe438-b4fe-4df6-821a-90d166267678.png)
@@ -19,8 +43,6 @@ The point of the school district analysis is to determine the correlation betwee
 - Thomas High School performance relative to the other schools:
 
 ![Screen Shot 2022-08-23 at 2 43 49 PM](https://user-images.githubusercontent.com/108419097/186238631-dcc65bd4-147b-43d4-ae62-59771ea8938f.png)
-
-- Math and reading scores by grade
 
 
 - Scores by school spending
